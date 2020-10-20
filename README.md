@@ -9,10 +9,12 @@ I´m a Fullstack junior developer based in Canary Islands 🇮🇨  and passiona
 ### Connect with me:
 
 -  <a href="https://www.linkedin.com/in/fran-navarro-martinez/">Linkedin</a>
--  <a href="https://www.frannav.me">frannav.me</a>
+-  <a href="https://www.frannav.dev">frannav.dev</a>
 
 ### Languages and Tools:
 
-- HTML, CSS, Javascript, React, Next.js 
-- Node.js, Express
+- HTML, CSS, Styled-Components, Javascript, React.
+- Node.js, Express.
+- MongoDB, Mongoose.
+- React-Native
 - Docker 
