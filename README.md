@@ -2,7 +2,7 @@
 
 ### About me  🧑🏻‍💻
 
-I´m a Fullstack junior developer based in Canary Islands 🇮🇨  and passionate about technology. I enjoy learning new things to improve day by day.
+I´m a junior web developer based in Canary Islands 🇮🇨  and passionate about technology. I enjoy learning new things to improve day by day.
 
 
 
