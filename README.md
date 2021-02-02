@@ -13,8 +13,7 @@ I´m a Fullstack junior developer based in Canary Islands 🇮🇨  and passiona
 
 ### Languages and Tools:
 
-- HTML, CSS, Styled-Components, Javascript, React.
-- Node.js, Express.
-- MongoDB, Mongoose.
-- React-Native
+- HTML, CSS, Javascript, React
+- Node.js, Express, PHP, Laravel 
+- MySQL, MongoDB, Mongoose.
 - Docker 
