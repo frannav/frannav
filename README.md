@@ -2,7 +2,7 @@
 
 ### About me  🧑🏻‍💻
 
-I´m a junior web developer based in Canary Islands 🇮🇨  and passionate about technology. I enjoy learning new things to improve day by day.
+I´m a web developer based in Canary Islands 🇮🇨  and passionate about technology. I enjoy learning new things to improve day by day.
 
 
 
@@ -13,7 +13,8 @@ I´m a junior web developer based in Canary Islands 🇮🇨  and passionate abo
 
 ### Languages and Tools:
 
-- HTML, CSS, Javascript, React
-- Node.js, Express, PHP, Laravel 
-- MySQL, MongoDB, Mongoose.
+- HTML, CSS
+- Javascript, Typescript
+- Node.js, Express, , React
+- PostgreSQL, MongoDB, Mongoose.
 - Docker 
