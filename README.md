@@ -15,6 +15,6 @@ I´m a web developer based in Canary Islands 🇮🇨  and passionate about tech
 
 - HTML, CSS
 - Javascript, Typescript
-- Node.js, Express, , React
+- Node.js, Express, React
 - PostgreSQL, MongoDB, Mongoose.
 - Docker 
